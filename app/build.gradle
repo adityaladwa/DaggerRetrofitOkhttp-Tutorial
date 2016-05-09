@@ -32,6 +32,7 @@ dependencies {
 
     //Retrofit
     compile 'com.squareup.retrofit2:retrofit:2.0.2'
+
     //OkHttp
     compile 'com.squareup.okhttp3:okhttp:3.2.0'
     compile 'com.squareup.okio:okio:1.7.0'
